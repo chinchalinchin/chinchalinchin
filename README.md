@@ -14,7 +14,7 @@ My other past-times include, but are not limited to:
 - Whistling in crowded rooms
 - Farting on elevators 
 
-As you can see, I am a culturally sophiscated individual. 
+As you can see, I am a culturally sophiscated individual.
 
 ## Current Projects
 
@@ -28,5 +28,5 @@ As you can see, I am a culturally sophiscated individual.
 
 ![](./assets/scrilla_example.png)
 
-This is some bullshit I built. Originally, it was a program that pulled financial data from the internet and optimized allocations by minimizing the portfolio volatility. It now has a bunch of other features, such as visualizations with **matplotlib*, a **Qt** based GUI, local caching with **sqlite**, etc. Check it out. 
+This is some bullshit I built. Originally, it was a program that pulled financial data from the internet and optimized investment allocations by minimizing volatilities or conditional values at riskb. It now has a bunch of other bullshit features, such as visualizations with **matplotlib**, a **Qt** based GUI, local caching with **sqlite**, and lots more. Checkout the project on [GitHub](https://github.com/chinchalinchin/scrilla) for more information.
 
