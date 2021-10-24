@@ -19,14 +19,13 @@ As you can see, I am a culturally sophiscated individual.
 ## Current Projects
 
 ### Scrilla
-
-![](./assets/scrilla_example_ii.png)
-
 - [PyPi](https://pypi.org/project/scrilla/)
 - [GitHub](https://github.com/chinchalinchin/scrilla)
 - [Documentation](https://chinchalinchin.github.io/scrilla/)
 
-![](./assets/scrilla_example.png)
-
 This is some bullshit I built. Originally, it was a program that pulled financial data from the internet and optimized investment allocations by minimizing volatilities or conditional values at riskb. It now has a bunch of other bullshit features, such as visualizations with **matplotlib**, a **Qt** based GUI, local caching with **sqlite**, and lots more. Checkout the project on [GitHub](https://github.com/chinchalinchin/scrilla) for more information.
+
+![](./assets/scrilla_example_ii.png)
+
+![](./assets/scrilla_example.png)
 
