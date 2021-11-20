@@ -1,5 +1,7 @@
 # Grant Moore
 
+---
+
 <div align="center">
     <img src="./assets/fractal_me.jpg" alt="drawing" width="400" />
 </div>
