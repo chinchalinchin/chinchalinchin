@@ -1,20 +1,49 @@
-# chinchalinchin
+# Grant Moore
 
-![](./assets/testimonial_math_201.jpg)
+![Fractal Me](./assets/fractal_me.jpg)
 
-Once upon a time, I was a professor. I taught math and physics to impressionable youths, steering them away from the lofty pursuits of rage tweeting and OnlyFans, towards the dark, twisted corridors of science where the corrupt heart of humanity festers and taints all who behold it. I have since repented and now to atone for my sins, I wear hair shirts and spend my days giving my money to cam girls. I can only hope my penance is enough to offset the contributions I made to the decline of civilzation.
+---
 
-Anyway, these days, I'm a Full Stack Developer and a DevOps engineer. I specialize in building infrastructure for cloud native applications and migrating legacy systems onto the cloud. But who cares about that? 
+## Education
 
-My other past-times include, but are not limited to: 
-- Making fun of middle schoolers
-- Cutting people in line
-- Ordering large meals ten minutes before a restaurant closes
-- Honking at people in traffic for no reason
-- Whistling in crowded rooms
-- Farting on elevators 
+|  School  |  Degree  | Field of Study | Graduation |
+|--------- | -------  | -------------- | ---------- |
+| Towson University | Master's Degree | Mathematics | 2013 |
+| Frostburg State University | Physics | Bachelor's Degree | 
 
-As you can see, I am a culturally sophiscated individual.
+
+## Experience
+
+### Employment History 
+
+| Employer  | Role  | Dates |
+| --------  | ----  | ----- |
+| Makpar | DevOps Engineer | October 2021 - Current |
+| IBM | Full Stack Developer | June 2019 - April 2021 |
+| Front Range Community College | Mathematics Professor | January 2018 - December 2018 |
+| University of Cincinnati | Adjunct Professor | August 2017 - December 2017 |
+| Frostburg State University | Adjunct Professor | August 2015 - May 2017 | 
+
+### Volunteer History
+
+| Organization | Role | Dates | 
+| ------------ | ---- | ----- | 
+| Americorps | Mathematics Tutor | August 2014 - August 2016 |
+
+### Certifications
+
+- [AWS Developer Associate](./assets/AWS_DEVELOPER.png)
+- [MTA Database Administration](./assets/MTA_DATABASE.png)
+- [MTA Python Programming](./assets/MTA_PYTHON.png)
+- [MTA Java Programming](/assets/MTA_JAVA.png)
+- [MTA Software](./assets/MTA_SOFTWARE.png)
+- [SOA Exam: Financial Mathematics](./assets/SOA_EXAM_FM.png)
+- [SOA Exam: Probability](./assets/SOA_EXAM_P.png)
+
+### Testimonials
+
+![Math 201: Calculus I](./assets/testimonial_math_201.jpg)
+![Phys 215: Principles of Mechanics](./assets/testimonial_math_215.jpg)
 
 ## Current Projects
 
@@ -23,9 +52,8 @@ As you can see, I am a culturally sophiscated individual.
 - [GitHub](https://github.com/chinchalinchin/scrilla)
 - [Documentation](https://chinchalinchin.github.io/scrilla/)
 
-This is some bullshit I built. Originally, it was a program that pulled financial data from the internet and optimized investment allocations by minimizing volatilities or conditional values at riskb. It now has a bunch of other bullshit features, such as visualizations with **matplotlib**, a **Qt** based GUI, local caching with **sqlite**, and lots more. Checkout the project on [GitHub](https://github.com/chinchalinchin/scrilla) for more information.
+![scrilla then](./assets/scrilla_example_ii.png)
 
-![](./assets/scrilla_example_ii.png)
+*scrilla* is a financial analysis application written in Python. It started as a command line utility for retrieving financial data and optimizing portfolio allocations over historical samples, but has since expanded to cover a wide range of analytical tools. I have developed a GUI wrapper around its main functions for easier user access. The latest version is relatively stable and *shouldn't* blow up <sup><sub>not a legally binding statement</sub></sup>
 
-![](./assets/scrilla_example.png)
-
+![scrilla now](./assets/scrilla_gui.png)
