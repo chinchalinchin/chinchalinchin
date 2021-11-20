@@ -13,7 +13,7 @@
 |  School  |  Degree  | Field of Study | Graduation |
 |--------- | -------  | -------------- | ---------- |
 | Towson University | Master's Degree | Mathematics | 2013 |
-| Frostburg State University | Physics | Bachelor's Degree | 
+| Frostburg State University | Physics | Bachelor's Degree | 2010 |
 
 
 ## Experience
