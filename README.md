@@ -47,7 +47,7 @@
 ### Testimonials
 
 ![Math 201: Calculus I](./assets/testimonial_math_201.jpg)
-![Phys 215: Principles of Mechanics](./assets/testimonial_math_215.jpg)
+![Phys 215: Principles of Mechanics](./assets/testimonial_phys_215.jpg)
 
 ## Current Projects
 
