@@ -3,10 +3,14 @@
 ---
 
 <div align="center">
-    <img src="./assets/fractal_me.jpg" alt="drawing" width="400" />
+    <img src="./assets/fractal_me.jpg" alt="fractal me" width="400" />
 </div>
 
 ---
+
+## Summary
+
+I like horror movies.
 
 ## Education
 
@@ -27,6 +31,16 @@
 | Front Range Community College | Mathematics Professor | January 2018 - December 2018 |
 | University of Cincinnati | Adjunct Professor | August 2017 - December 2017 |
 | Frostburg State University | Adjunct Professor | August 2015 - May 2017 | 
+| Allegany College of Maryland | Adjunct Professor | January 2015 - May 2015 |
+| Hamilton Relay | Relay Operator | April 2014 - December 2014 |
+| IBM | Conversion Worker | November 2013 - April 2014 | 
+| Walmart | Cashier | November 2011 - September 2012 |
+| Savage River Lodge | Maintenance | June 2010 - November 2010 |
+| Burger King | Slave | March 2009 - August 2009 | 
+| Fox's Pizza | Delivery Driver |  February 2009 - January 2010 |
+| Ruby Tuesday | Cook |  April 2008 - January 2009 |
+| Denny's | Cook | June 2007 - February 2008 | 
+| Banana Cafe | Dishwasher | May 2006 - September 2006 | 
 
 ### Volunteer History
 
@@ -56,8 +70,11 @@
 - [GitHub](https://github.com/chinchalinchin/scrilla)
 - [Documentation](https://chinchalinchin.github.io/scrilla/)
 
-![scrilla then](./assets/scrilla_example_ii.png)
 
-*scrilla* is a financial analysis application written in Python. It started as a command line utility for retrieving financial data and optimizing portfolio allocations over historical samples, but has since expanded to cover a wide range of analytical tools. I have developed a GUI wrapper around its main functions for easier user access. The latest version is relatively stable and *shouldn't* blow up <sup><sub>not a legally binding statement</sub></sup>
+<div align="center">
+    <img src="./assets/scrilla_example_ii.jpg" alt="scrilla then" width="400" />
+</div>
+
+*scrilla* is a financial analysis application written in Python. It started as a command line utility for retrieving financial data and optimizing portfolio allocations over historical samples, but has since expanded to cover a wide range of analytical tools. I have developed a GUI wrapper around its main functions for easier user access. The latest version is relatively stable and *shouldn't* blow up <sup><sub>not a legally binding statement</sub></sup> so give it a go! See the documentation for more information on installation.
 
 ![scrilla now](./assets/scrilla_gui.png)
