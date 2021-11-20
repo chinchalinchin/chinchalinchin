@@ -1,6 +1,6 @@
 # Grant Moore
 
-![Fractal Me](./assets/fractal_me.jpg)
+<center><img src="./assets/fractal_me.jpg" alt="drawing" width="150"/></center>
 
 ---
 
