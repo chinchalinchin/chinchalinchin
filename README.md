@@ -72,7 +72,7 @@
 
 
 <div align="center">
-    <img src="./assets/scrilla_example_ii.jpg" alt="scrilla then" width="400" />
+    <img src="./assets/scrilla_example_ii.png" alt="scrilla then" width="400" />
 </div>
 
 *scrilla* is a financial analysis application written in Python. It started as a command line utility for retrieving financial data and optimizing portfolio allocations over historical samples, but has since expanded to cover a wide range of analytical tools. I have developed a GUI wrapper around its main functions for easier user access. The latest version is relatively stable and *shouldn't* blow up <sup><sub>not a legally binding statement</sub></sup> so give it a go! See the documentation for more information on installation.
