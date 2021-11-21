@@ -10,7 +10,7 @@
 
 ## Summary
 
-I like horror movies.
+[Come at me, bro.](https://www.chess.com/member/thegrapesofmath)
 
 ## Education
 
