@@ -50,6 +50,7 @@
 
 ### Certifications
 
+- [AWS DevOps Professional](./assets/AWS_DEVOPS.png)
 - [AWS Developer Associate](./assets/AWS_DEVELOPER.png)
 - [MTA Database Administration](./assets/MTA_DATABASE.png)
 - [MTA Python Programming](./assets/MTA_PYTHON.png)
