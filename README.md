@@ -30,8 +30,9 @@
 | IBM | Full Stack Developer | June 2019 - April 2021 |
 | Front Range Community College | Mathematics Professor | January 2018 - December 2018 |
 | University of Cincinnati | Adjunct Professor | August 2017 - December 2017 |
+| YTI Career Institute | Math Instructor | August 2015 - December 2015 |
 | Frostburg State University | Adjunct Professor | August 2015 - May 2017 | 
-| Allegany College of Maryland | Adjunct Professor | January 2015 - May 2015 |
+| Allegany College of Maryland | Adjunct Professor | January 2015 - December 2015 |
 | Hamilton Relay | Relay Operator | April 2014 - December 2014 |
 | IBM | Conversion Worker | November 2013 - April 2014 | 
 | Walmart | Cashier | November 2011 - September 2012 |
