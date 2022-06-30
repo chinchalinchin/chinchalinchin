@@ -26,7 +26,8 @@
 
 | Employer  | Role  | Dates |
 | --------  | ----  | ----- |
-| Makpar | DevOps Engineer | October 2021 - Current |
+| Booz Allen Hamilton | DevOps Engineer | June 2022 - Current |
+| Makpar | DevOps Engineer | October 2021 - May 2022 |
 | IBM | Full Stack Developer | June 2019 - April 2021 |
 | Front Range Community College | Mathematics Professor | January 2018 - December 2018 |
 | University of Cincinnati | Adjunct Professor | August 2017 - December 2017 |
@@ -77,6 +78,6 @@
     <img src="./assets/scrilla_example_ii.png" alt="scrilla then" width="400" />
 </div>
 
-*scrilla* is a financial analysis application written in Python. It started as a command line utility for retrieving financial data and optimizing portfolio allocations over historical samples, but has since expanded to cover a wide range of analytical tools. I have developed a GUI wrapper around its main functions for easier user access. The latest version is relatively stable and *shouldn't* blow up <sup><sub>not a legally binding statement</sub></sup> so give it a go! See the documentation for more information on installation.
+*scrilla* is a financial analysis application written in Python. It started as a command line utility for retrieving financial data and optimizing portfolio allocations over historical samples, but has since expanded to cover a wide range of analytical tools. I have developed a GUI wrapper around its main functions for easier user access. Give it a go! See the documentation for more information on installation.
 
 ![scrilla now](./assets/scrilla_gui.png)
