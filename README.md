@@ -90,4 +90,4 @@ TODO
 
 ### Being and Death
 
-[Being and Death](https://chinchalinchin.github.io/being-and-death/index.html
+[Being and Death](https://chinchalinchin.github.io/being-and-death/index.html)
