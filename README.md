@@ -83,3 +83,11 @@
 *scrilla* is a financial analysis application written in Python. It started as a command line utility for retrieving financial data and optimizing portfolio allocations over historical samples, but has since expanded to cover a wide range of analytical tools. I have developed a GUI wrapper around its main functions for easier user access. Give it a go! See the documentation for more information on installation.
 
 ![scrilla now](./assets/scrilla_gui.png)
+
+### Ontology
+
+TODO
+
+### Being and Death
+
+[Being and Death](https://chinchalinchin.github.io/being-and-death/index.html
