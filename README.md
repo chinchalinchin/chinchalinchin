@@ -26,8 +26,8 @@
 
 | Employer  | Role  | Dates |
 | --------  | ----  | ----- |
-| IHS Markit | Software Engineer | October 2022 - Current |
-| Booz Allen Hamilton | Staff Engineer | June 2022 - Current |
+| IHS Markit | Software Engineer | October 2022 - March 2023 |
+| Booz Allen Hamilton | Staff Engineer | June 2022 - July 2023 |
 | Makpar | DevOps Engineer | October 2021 - May 2022 |
 | IBM | Full Stack Developer | June 2019 - April 2021 |
 | Front Range Community College | Mathematics Professor | January 2018 - December 2018 |
@@ -86,7 +86,9 @@
 
 ### Ontology
 
-TODO
+*ontology* is a 2D game engine that implements [Liberated Pixel Cup](https://lpc.opengameart.org/) specification. It is written to ingest configuration YAML markup and generate worlds based solely on the parsed values. 
+
+TODO write more
 
 ### Being and Death
 
