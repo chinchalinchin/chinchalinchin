@@ -10,7 +10,7 @@
 
 ## Summary
 
-[Come at me, bro.](https://www.chess.com/member/thegrapesofmath)
+[Come at me and get hurt.](https://www.chess.com/member/thegrapesofmath)
 
 ## Education
 
@@ -27,7 +27,7 @@
 | Employer  | Role  | Dates |
 | --------  | ----  | ----- |
 | IHS Markit | Software Engineer | October 2022 - March 2023 |
-| Booz Allen Hamilton | Staff Engineer | June 2022 - July 2023 |
+| Booz Allen Hamilton | Staff Engineer | June 2022 - August 2023 |
 | Makpar | DevOps Engineer | October 2021 - May 2022 |
 | IBM | Full Stack Developer | June 2019 - April 2021 |
 | Front Range Community College | Mathematics Professor | January 2018 - December 2018 |
@@ -88,8 +88,10 @@
 
 *ontology* is a 2D game engine that implements [Liberated Pixel Cup](https://lpc.opengameart.org/) specification. It is written to ingest configuration YAML markup and generate worlds based solely on the parsed values. 
 
-TODO write more
+I started this back in 2012-ish, right after the Liberated Pixel Cup actually occurred. Initially it was just a fun way to learn to programming and engineering paradigms, but it has since evolved into a way for me to experiment with various ideas. I go back to this project every few years and try to improve it. I have a vision of what it is supposed to be, but there are lots of things to do before I can call it complete.
 
-### Being and Death
+I would like to design a dynamic game engine without any determinate scripting. I want this to be a way of creating a virtual world through some basic configuration and then allowing it to evolve according to its own logic. I have been trying to craft an NPC reaction system that affects in-game events, but the logic is becoming very complicated. Next time I return to this project, I will probably try to revamp the NPC logic a bit.
 
-[Being and Death](https://chinchalinchin.github.io/being-and-death/index.html)
+### Bishop Walsh Math
+
+I taught AP Statistics at Bishop Walsh High School during the 2023 - 2024 school year (I also subbed for the AP Calculus course while the regular teacher was out on leave). In doing so, I cobbled together a website using Python and Sphinx for the students to use. You can find my efforts at [bw-math](https://bishopwalshmath.org). You may freely use anything you find on the website. It's got a ton of great resources for learning probability and statistics!
