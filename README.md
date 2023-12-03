@@ -59,7 +59,7 @@
 - [MTA Database Administration](./assets/MTA_DATABASE.png)
 - [MTA Python Programming](./assets/MTA_PYTHON.png)
 - [MTA Java Programming](/assets/MTA_JAVA.png)
-- [MTA Software](./assets/MTA_SOFTWARE.png)
+- [MTA Software Development](./assets/MTA_SOFTWARE.png)
 - [SOA Exam: Financial Mathematics](./assets/SOA_EXAM_FM.png)
 - [SOA Exam: Probability](./assets/SOA_EXAM_P.png)
 
