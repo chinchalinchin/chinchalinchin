@@ -27,7 +27,7 @@
 | Employer  | Role  | Dates |
 | --------  | ----  | ----- |
 | IHS Markit | Software Engineer | October 2022 - March 2023 |
-| Booz Allen Hamilton | Staff Engineer | June 2022 - August 2023 |
+| Booz Allen Hamilton | Staff Engineer | June 2022 - December 2023 |
 | Makpar | DevOps Engineer | October 2021 - May 2022 |
 | IBM | Full Stack Developer | June 2019 - April 2021 |
 | Front Range Community College | Mathematics Professor | January 2018 - December 2018 |
