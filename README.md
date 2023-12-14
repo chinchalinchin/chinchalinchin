@@ -12,8 +12,6 @@
 
 [Come at me and get hurt.](https://www.chess.com/member/thegrapesofmath)
 
-Go away, Rory.
-
 ## Education
 
 |  School  |  Degree  | Field of Study | Graduation |
