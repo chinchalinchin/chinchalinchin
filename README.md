@@ -26,7 +26,7 @@
 
 | Employer  | Role  | Dates |
 | --------  | ----  | ----- |
-| MDThink    | DevOps Lead       | June 2024 - Current |
+| MDThink    | DevOps Director       | June 2024 - Current |
 | Bishop Walsh | Math Teacher | September 2023 - June 2024 |
 | IHS Markit | Software Engineer | October 2022 - March 2023 |
 | Booz Allen Hamilton | Staff Engineer | June 2022 - December 2023 |
