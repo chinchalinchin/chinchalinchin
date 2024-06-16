@@ -8,9 +8,11 @@
 
 ---
 
+*factum infectum fieri nequit*
+
 ## Summary
 
-[Come at me and get hurt.](https://www.chess.com/member/thegrapesofmath)
+[Get some.](https://www.chess.com/member/thegrapesofmath)
 
 ## Education
 
