@@ -8,7 +8,7 @@
 
 ---
 
-*factum infectum fieri nequit*
+*ό ποιητα, η πιθι η ’απιθι*
 
 ## Summary
 
