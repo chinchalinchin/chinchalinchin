@@ -53,22 +53,10 @@
 
 | Organization  | Certifications |
 |-------------- | -------------- |
-| AWS | <a href="./assets/aws-certified-developer-associate.png"> <img src="./assets/aws-certified-developer-associate.png" alt="AWS Developer Associate" width="100"/> </a></div> <a href="./assets/aws-certified-devops-engineer-professional.png"> <img src="./assets/aws-certified-devops-engineer-professional.png" alt="AWS DevOps Professional" width="100"></a> |
+| AWS | <a href="./assets/aws-certified-developer-associate.png"> <img src="./assets/aws-certified-developer-associate.png" alt="AWS Developer Associate" width="100"/> </a></div> <a href="./assets/aws-certified-devops-engineer-professional.png"> <img src="./assets/aws-certified-devops-engineer-professional.png" alt="AWS DevOps Professional" width="100"/></a> |
+| IBM | <a href="./assets/aws-certified-developer-associate.png"><img src="./assets/ibm-docker-introduction.png" alt="IBM Docker Essentials" width="100"/></a> <a href="./assets/ibm-docker-introduction.png"> <img src="./assets/ibm-enterprise-design.png" alt="IBM Enterprise Design" width="100"/> </a> |
+| MTA | <a href="./assets/mta-database-fundamentals-certified-2018.png"><img src="./assets/mta-database-fundamentals-certified-2018.png" alt="MTA Database Fundamentals" width="100"/></a> <a href="./assets/mta-introduction-to-programming-using-java-certified-2018.png>"><img src="./assets/mta-introduction-to-programming-using-java-certified-2018.png" alt="Java Programming" width="100"/></a> <a href="./assets/mta-introduction-to-programming-using-python-certified-2018.png"><img src="./assets/mta-introduction-to-programming-using-python-certified-2018.png" alt="Python Programming" width="100"></a> <a href="./assets/mta-software-development-fundamentals-certified-2018.png"><img src="./assets/mta-software-development-fundamentals-certified-2018.png" alt="Software Development Fundamentals" width="100"/></a> |
 
-
-<div style="display: flex; justify-content: center; flex-direction: row;">
-    <div><a href="./assets/aws-certified-developer-associate.png">
-        <img src="./assets/ibm-docker-introduction.png" alt="IBM Docker Essentials" width="100"/>
-    </a></div>
-    <div><a href="./assets/ibm-docker-introduction.png">
-        <img src="./assets/ibm-enterprise-design.png" alt="IBM Enterprise Design" width="100">
-    </a></div>
-</div>
-
-![MTA Database Fundamentals](./assets/mta-database-fundamentals-certified-2018.png)
-![MTA Python Programming](./assets/mta-introduction-to-programming-using-python-certified-2018.png)
-![MTA Java Programming](./assets/mta-introduction-to-programming-using-java-certified-2018.png)
-![MTA Software Development](./assets/mta-software-development-fundamentals-certified-2018.png)
 ![SOA Exam FM](./assets/soa-exam-fm.png)
 ![SOA Exam P](./assets/soa-exam-p.png)
 
