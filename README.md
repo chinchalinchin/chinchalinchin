@@ -51,6 +51,11 @@
 
 ### Certifications
 
+<div style="display: flex; justify-content:center;">
+    <div><img src="./assets/aws-certified-developer-associate.png" width="50"/></div>
+    <div><img src="./assets/aws-certified-devops-engineer-professional.png" width="50"></div>
+</div>
+
 ![AWS Developer Associate](./assets/aws-certified-developer-associate.png)
 ![AWS DevOps Engineer Professional](./assets/aws-certified-devops-engineer-professional.png)
 ![IBM Docker Essentials](./assets/ibm-docker-introduction.png)
