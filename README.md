@@ -52,8 +52,7 @@
 
 ### Certifications
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="268e4b99-77ac-43db-8c84-8359bb69cfe0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
+![AWS Developer Associate](https://www.credly.com/badges/268e4b99-77ac-43db-8c84-8359bb69cfe0/public_url)
 
 - [AWS DevOps Professional](./assets/AWS_DEVOPS.png)
 - [AWS Developer Associate](./assets/AWS_DEVELOPER.png)
