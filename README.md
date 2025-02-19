@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-    <img src="./assets/fractal_me.jpg" alt="fractal me" width="400" />
+    <img src="./assets/fractal-me.jpg" alt="fractal me" width="400" />
 </div>
 
 ---
