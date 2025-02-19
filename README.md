@@ -51,15 +51,24 @@
 
 ### Certifications
 
-<div style="display: flex; justify-content:center;">
-    <div><img src="./assets/aws-certified-developer-associate.png" width="50"/></div>
-    <div><img src="./assets/aws-certified-devops-engineer-professional.png" width="50"></div>
+<div style="display: flex; justify-content: center; flex-direction: row;">
+    <div><a href="./assets/aws-certified-developer-associate.png">
+        <img src="./assets/aws-certified-developer-associate.png" alt="AWS Developer Associate" width="100"/>
+    </a></div>
+    <div><a href="./assets/aws-certified-devops-engineer-professional.png">
+        <img src="./assets/aws-certified-devops-engineer-professional.png" alt="AWS DevOps Professional" width="100">
+    </a></div>
 </div>
 
-![AWS Developer Associate](./assets/aws-certified-developer-associate.png)
-![AWS DevOps Engineer Professional](./assets/aws-certified-devops-engineer-professional.png)
-![IBM Docker Essentials](./assets/ibm-docker-introduction.png)
-![IBM Enterprise Design](./assets/ibm-enterprise-design.png)
+<div style="display: flex; justify-content: center; flex-direction: row;">
+    <div><a href="./assets/aws-certified-developer-associate.png">
+        <img src="./assets/ibm-docker-introduction.png" alt="IBM Docker Essentials" width="100"/>
+    </a></div>
+    <div><a href="./assets/ibm-docker-introduction.png">
+        <img src="./assets/ibm-enterprise-design.png" alt="IBM Enterprise Design" width="100">
+    </a></div>
+</div>
+
 ![MTA Database Fundamentals](./assets/mta-database-fundamentals-certified-2018.png)
 ![MTA Python Programming](./assets/mta-introduction-to-programming-using-python-certified-2018.png)
 ![MTA Java Programming](./assets/mta-introduction-to-programming-using-java-certified-2018.png)
