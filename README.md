@@ -15,7 +15,6 @@
 | Towson University | Master's Degree | Mathematics | 2013 |
 | Frostburg State University | Bachelor's Degree | Physics | 2010 |
 
-
 ## Experience
 
 ### Employment History 
@@ -52,16 +51,16 @@
 
 ### Certifications
 
-![AWS Developer Associate](https://www.credly.com/badges/268e4b99-77ac-43db-8c84-8359bb69cfe0/public_url)
-
-- [AWS DevOps Professional](./assets/AWS_DEVOPS.png)
-- [AWS Developer Associate](./assets/AWS_DEVELOPER.png)
-- [MTA Database Administration](./assets/MTA_DATABASE.png)
-- [MTA Python Programming](./assets/MTA_PYTHON.png)
-- [MTA Java Programming](/assets/MTA_JAVA.png)
-- [MTA Software Development](./assets/MTA_SOFTWARE.png)
-- [SOA Exam: Financial Mathematics](./assets/SOA_EXAM_FM.png)
-- [SOA Exam: Probability](./assets/SOA_EXAM_P.png)
+![AWS Developer Associate](./assets/aws-certified-developer-associate.png)
+![AWS DevOps Engineer Professional](./assets/aws-certified-devops-engineer-professional.png)
+![IBM Docker Essentials](./assets/ibm-docker-introduction.png)
+![IBM Enterprise Design](./assets/ibm-enterprise-design.png)
+![MTA Database Fundamentals](./assets/mta-database-fundamentals-certified-2018.png)
+![MTA Python Programming](./assets/mta-introduction-to-programming-using-python-certified-2018.png)
+![MTA Java Programming](./assets/mta-introduction-to-programming-using-java-certified-2018.png)
+![MTA Software Development](./assets/mta-software-development-fundamentals-certified-2018.png)
+![SOA Exam FM](./assets/soa-exam-fm.png)
+![SOA Exam P](./assets/soa-exam-p.png)
 
 ### Testimonials
 
