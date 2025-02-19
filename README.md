@@ -51,10 +51,10 @@
 
 ### Certifications
 
-<div style="display: flex; justify-content: center; flex-direction: row;">
-    <div><a href="./assets/aws-certified-developer-associate.png">
-        <img src="./assets/aws-certified-developer-associate.png" alt="AWS Developer Associate" width="100"/>
-    </a></div>
+| Organization  | Certifications |
+| AWS | <a href="./assets/aws-certified-developer-associate.png"> <img src="./assets/aws-certified-developer-associate.png" alt="AWS Developer Associate" width="100"/> </a></div> |
+
+<div>
     <div><a href="./assets/aws-certified-devops-engineer-professional.png">
         <img src="./assets/aws-certified-devops-engineer-professional.png" alt="AWS DevOps Professional" width="100">
     </a></div>
