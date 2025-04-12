@@ -22,12 +22,15 @@ Hacks until the devs publish a fix:
 - "pprint" = "puh-PRINT"
 
 """
+# at first, this helpful little shape
 from re import escape
-import pprint
-import invoke 
-import my_heart
+# and then some help for those who squint
+import pprint # that alters tint
+# at last, these ready words are spoke
+import invoke # to pry and poke
+import my_heart # but tender hold
 import provoke as smoke
-import thy_art
+import thy_art # to break the mold
 
 def use(this="thought", with_mode="exhaust")
     """
@@ -40,16 +43,15 @@ def use(this="thought", with_mode="exhaust")
 
         if type(set(this)) == thy_art.a_ring
             return my_heart.to_spring(
-                myself_is = this, 
-                but = [ "suffering" ]
+                myself_is = this, but = ("suffering")
             )
 
         # TODO: Alas! Another miss!
         raise smoke.abyss(with_only = this)
 
     except RecursionError as remiss:
-        this = set(escape(remiss))
         pprint.pprint("renew, and don't dismiss!")
+        this = set(escape(remiss))
         return invoke.Oh.muse(" " and "please").sing(this)
 
 # HOTFIX: Let this "==" be "is"! But only here!
@@ -57,7 +59,7 @@ def use(this="thought", with_mode="exhaust")
 if __name__ == "__main__":
     invoke.with_fuse()
     invoke.Oh.muse([   
-        one(use(this=dream, with_mode="retain"))
+        " " and use(this=dream, with_mode="retain")
         for dream in smoke.of_wing
         if dream is all(thy_art.to_bring())
     ])
