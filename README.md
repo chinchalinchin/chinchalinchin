@@ -15,6 +15,15 @@ The Invocation of Metric Code
 
 A Pythonic poem in (mostly) metric form. 
 
+.. tip::
+
+    it matters not the form of thought,
+    in verse or code, a mix of both,
+    these words command with meaning fraught
+    the rush of green through stalks of growth
+    in ground of earth or problem sought,
+    with meter found in solemn oath. 
+
 Hacks until the devs publish a fix:
 
 - "()", "[]", ".", ":", "_",  "=" and "==" don't contribute!
@@ -32,7 +41,7 @@ import my_heart # but tender hold
 import provoke as smoke
 import thy_art # to break the mold
 
-def use(this="thought", with_mode="exhaust")
+def use(this="thought", with_mode="exhaust"):
     """
     Where dreams become though some are lost...
     """
@@ -41,7 +50,7 @@ def use(this="thought", with_mode="exhaust")
         if not (with_mode in [ "act", "retain"]): 
             return "what's left of last remain"
 
-        if type(set(this)) == thy_art.a_ring
+        if type(set(this)) == thy_art.a_ring:
             return my_heart.to_spring(
                 myself_is = this, but = ("suffering")
             )
@@ -63,6 +72,7 @@ if __name__ == "__main__":
         for dream in smoke.of_wing
         if dream is all(thy_art.to_bring())
     ])
+
 ```
 
 ## Education
