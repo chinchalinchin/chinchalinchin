@@ -18,7 +18,7 @@ A Pythonic poem in (mostly) metric form.
 Hacks until the devs publish a fix:
 
 - "()", "[]", ".", ":", "_",  "=" and "==" don't contribute!
-- Comments are part of the poem! Except the first one!
+- Comments are part of the poem! Except this first one!
 - "pprint" = "puh-PRINT"
 
 """
