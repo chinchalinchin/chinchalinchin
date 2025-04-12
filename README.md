@@ -10,57 +10,57 @@
 
 ```python
 """
-    The Invocation of Metric Code 
-    =============================
+The Invocation of Metric Code 
+=============================
 
-    A Pythonic poem in (mostly) metric form. 
+A Pythonic poem in (mostly) metric form. 
 
-    Hacks until the devs publish a fix:
+Hacks until the devs publish a fix:
 
-    - "()", "[]", ".", ":", "_",  "=" and "==" don't contribute!
-    - Comments are part of the poem! Except the first one!
-    - "pprint" = "puh-PRINT"
-  
+- "()", "[]", ".", ":", "_",  "=" and "==" don't contribute!
+- Comments are part of the poem! Except the first one!
+- "pprint" = "puh-PRINT"
+
+"""
+from re import escape
+import pprint
+import invoke 
+import my_heart
+import provoke as smoke
+import thy_art
+
+def use(this="thought", with_mode="exhaust")
     """
-    from re import escape
-    import pprint
-    import invoke 
-    import my_heart
-    import provoke as smoke
-    import thy_art
+    Where dreams become though some are lost...
+    """
+    try: # hope, but keep your fingers crossed...
 
-    def use(this="thought", with_mode="exhaust")
-        """
-        Where dreams become though some are lost...
-        """
-        try: # hope, but keep your fingers crossed...
+        if not (with_mode in [ "act", "retain"]): 
+            return "what's left of last remain"
 
-            if not (with_mode in [ "act", "retain"]): 
-                return "what's left of last remain"
+        if type(set(this)) == thy_art.a_ring
+            return my_heart.to_spring(
+                myself_is = this, 
+                but = [ "suffering" ]
+            )
 
-            if type(set(this)) == thy_art.a_ring
-                return my_heart.to_spring(
-                    myself_is = this, 
-                    but = [ "suffering" ]
-                )
+        # TODO: Alas! Another miss!
+        raise smoke.abyss(with_only = this)
 
-            # TODO: Alas! Another miss!
-            raise smoke.abyss(with_only = this)
+    except RecursionError as remiss:
+        this = set(escape(remiss))
+        pprint.pprint("renew, and don't dismiss!")
+        return invoke.Oh.muse(" " and "please").sing(this)
 
-        except RecursionError as remiss:
-            this = set(escape(remiss))
-            pprint.pprint("renew, and don't dismiss!")
-            return invoke.Oh.muse(" " and "please").sing(this)
-
-    # HOTFIX: Let this "==" be "is"! But only here!
-    # Oh, don't complain, just play the game! 
-    if __name__ == "__main__":
-        invoke.with_fuse()
-        invoke.Oh.muse([   
-            one(use(this=dream, with_mode="retain"))
-            for dream in smoke.of_wing
-            if dream is all(thy_art.to_bring())
-        ])
+# HOTFIX: Let this "==" be "is"! But only here!
+# Oh, don't complain, just play the game! 
+if __name__ == "__main__":
+    invoke.with_fuse()
+    invoke.Oh.muse([   
+        one(use(this=dream, with_mode="retain"))
+        for dream in smoke.of_wing
+        if dream is all(thy_art.to_bring())
+    ])
 ```
 
 ## Education
