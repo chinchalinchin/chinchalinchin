@@ -50,7 +50,7 @@ def use(this="thought", with_mode="exhaust"):
         if not (with_mode in [ "act", "retain"]): 
             return "what's left of last remain"
 
-        if type(set(this)) == thy_art.a_ring:
+        if type(f'of {this}') == thy_art.a_ring:
             return my_heart.to_spring(
                 myself_is = this, but = ("suffering")
             )
