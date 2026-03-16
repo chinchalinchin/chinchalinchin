@@ -8,64 +8,6 @@
 
 ---
 
-```python
-"""
-The Invocation of Metric Code 
-=============================
-
-A Pythonic poem in (mostly) metric form. 
-
-Hacks until the devs publish a fix:
-
-- "()", "[]", ".", ":", "_",  "=" and "==" don't contribute!
-- Comments are part of the poem! Except this one!
-- "pprint" = "puh-PRINT"
-
-"""
-# at first, this helpful little shape
-from re import escape
-# and then some help for those who squint
-import pprint # that alters tint
-# at last, these ready words are spoke
-import invoke # to pry and poke
-import my_heart # but tender hold
-import provoke as smoke
-import thy_art # to break the mold
-
-def use(this="thought", with_mode="exhaust"):
-    """
-    Where dreams become though some are lost...
-    """
-    try: # hope, but keep your fingers crossed...
-
-        if not (with_mode in [ "act", "retain"]): 
-            return "what's left of last remain"
-
-        if type(f'of {this}') == thy_art.a_ring:
-            return my_heart.to_spring(
-                myself_is = this, but = ("suffering")
-            )
-
-        # TODO: Alas! Another miss!
-        raise smoke.abyss(with_only = this)
-
-    except RecursionError as remiss:
-        pprint.pprint("renew, and don't dismiss!")
-        this = set(escape(remiss))
-        return invoke.Oh.muse(" " and "please").sing(this)
-
-# HOTFIX: Let this "==" be "is"! But only here!
-# Oh, don't complain, just play the game! 
-if __name__ == "__main__":
-    invoke.with_fuse()
-    invoke.Oh.muse([   
-        " " and use(this=dream, with_mode="retain")
-        for dream in smoke.of_wing
-        if dream is all(thy_art.to_bring())
-    ])
-
-```
-
 ## Education
 
 |  School  |  Degree  | Field of Study | Graduation |
@@ -79,7 +21,7 @@ if __name__ == "__main__":
 
 | Employer  | Role  | Dates |
 | --------  | ----  | ----- |
-| ProvisionIAM | Senior Site Reliability Engineer | March 2025 - Present |
+| ProvisionIAM | Senior DevOps Engineer | March 2025 - Present |
 | MDThink    | DevOps Director       | June 2024 - December 2024 |
 | Bishop Walsh | Math Teacher | September 2023 - June 2024 |
 | IHS Markit | Software Engineer | October 2022 - March 2023 |
@@ -117,39 +59,25 @@ if __name__ == "__main__":
 | MTA | <a href="./assets/mta-database-fundamentals-certified-2018.png"><img src="./assets/mta-database-fundamentals-certified-2018.png" alt="MTA Database Fundamentals" width="100"/></a> <a href="./assets/mta-introduction-to-programming-using-java-certified-2018.png>"><img src="./assets/mta-introduction-to-programming-using-java-certified-2018.png" alt="Java Programming" width="100"/></a> <a href="./assets/mta-introduction-to-programming-using-python-certified-2018.png"><img src="./assets/mta-introduction-to-programming-using-python-certified-2018.png" alt="Python Programming" width="100"></a> <a href="./assets/mta-software-development-fundamentals-certified-2018.png"><img src="./assets/mta-software-development-fundamentals-certified-2018.png" alt="Software Development Fundamentals" width="100"/></a> |
 | SOA | [Exam FM](./assets/soa-exam-fm.png) [Exam P](./assets/soa-exam-p.png) |
 
+### Publications
+
+- [Photographs of Autumn, Macrame Literary Journal, Summer 2025, Issue 1](https://macramelit.com/articles/photographs-of-autumn/)
+- [Absurdity, The Genre Society, Fall 2025 Issue](https://www.thegenresociety.com/readhere)
+- [Father's Lullaby, Sublimation, Volume 2 Issue 5](https://islandofwakwak.com/sublimation-volume-2-2025.html)
+- [The Unicode Ode, Infocalypse Press, Volume 1 Issue 1](https://www.infocalypse.press/issue-one/)
+- [The Invocation of Metric Code, Infocalypse Press, Volume 1, Issue 1](https://www.infocalypse.press/issue-one/)
+- [The Lives of Kites, Macrame Literary Journal, Winter 2026, Issue 3](https://macramelit.com/articles/the-lives-of-kites/)
+- [Holly Tree, The Celestial Glossary, Volume 1 Issue 1](https://estrellahp.com/celestial-glossary/issue-1/holly-trees/)
+- [Larksong, Artists From Maryland, February 2026](https://www.artistsfrommaryland.org/february-2026-grant-moore/)
+- [Eulogy, Artists From Maryland, February 2026](https://www.artistsfrommaryland.org/february-2026-grant-moore/)
+- [Pantoums of Dementia, Movement I: Undulation, Scribeworth Magazine, Winter 2025, Volume I, Issue 4](https://www.scribeworth.com/magazine)
+- [Little Sprout, WayWords Literary Journal, Issue 21: Theme of Wonder](https://www.amazon.com/dp/B0GPJ81RJM)
+- [Millenial Lives*, WayWords Literary Journal, Issue 21: Theme of Wonder](https://www.amazon.com/dp/B0GPJ81RJM)
+- [Pantoums of Dementia, Sligo Creek Publishing, Bearing Witness: Poems for Troubled Times](https://www.sligocreekpublishing.com/bearing-witness)
+- [Eulogy, Sligo Creek Publishing, Bearing Witness: Poems for Troubled Times](https://www.sligocreekpublishing.com/bearing-witness)
+- [Floods, Four Tulips Magazine, 2026 Anthology](https://www.fourtulips.com/archives/floods)
+
 ### Testimonials
 
 ![Math 201: Calculus I](./assets/testimonial-math-201.jpg)
 ![Phys 215: Principles of Mechanics](./assets/testimonial-phys-215.jpg)
-
-## The Unicode Ode
-
-🧍‍♀️ ∥ 🍀 ∥ 🎲 ∥ 🔮 ∥ 🎲 ∥ 🍀 ∥🧍‍♂️  
-🎻-👗-👠 ≈ 😬 ≈ 👞-👔-🎻  
-🌙 ⊥ [∞] {🌹, 🥂, 🍝,🕯️} [∞] ⊥ ✨  
-[[💃 ∪ 🕺] ∩  🎼 ] ∝ ⏳ 𝆒 #  
-
-
-[🫀 ∧ 🧠 ∧ 🫁] ↔ [💬 ∧ 💭 ∧ 💘]  
-[🫀 ≠ 💘] ∧ [🧠 ≠ 💭] ∧ [🫁 ≠ 💬]  
-∀ 👁️ ∈ 😍 : Σ 👁️ =  🎯(🔥)  
-∃ 💋 ∈ 😘 : 🌍 ⊂ 💋
- 
-
-⏳ ⊥ [𝄞] {🌹, 🕰️, 🌹} [𝄞] ⊥ ⌛  
-🌕-🎶-🌖-🎵-🌗-𝅝𝅥-🌘-∅-🌑
-
-
-🏃-💭-🌳 ... 🏃-💭-🏡 ... 🏃-💭-🏥  
-🍀(😨 + 🚑 → 😱 + 🩺 → 💀 + 🪦)  
-🥀 → 🌧️ + 🌱 = 😭 + 💭(💃 ∪ 🕺) + 🕸️  
-🚶-💭-🍃 ... 🚶-💭-🔔 ... 🚶-💭-⛪
-
-
-💭([💃 ∪ 🕺] - 💃  ≠  🕺)  
-💭([💃 ∪ 🕺] - 💃 ⊂ 💃)  
-💤(💃(🔥) → 💘(🎼))  
-🪞(🌀(🌀(🌀(🌀(🌀))))) → 🕊️(🕰️)
-
-
-🧔 + 🎹 = 🎶(💃) ∝ ⏳ 𝆒 # 
