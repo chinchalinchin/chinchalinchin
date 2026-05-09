@@ -73,7 +73,7 @@
 - [Eulogy & Pantoums of Dementia, Sligo Creek Publishing, Bearing Witness: Poems for Troubled Times](https://www.sligocreekpublishing.com/bearing-witness)
 - [Floods, Four Tulips Magazine, 2026 Anthology](https://www.fourtulips.com/archives/floods)
 - [Three Poems, Ultramarine Review](https://www.ultramarinereview.com/post/three-poems-by-grant-a-moore)
-- [Absurdity & The Gap, Infopocalypse, Volume 1 Issue 2](https://www.infocalypse.press/issue-2-without-a-face/)
+- [Absurdity & The Gap, Infocalypse, Volume 1 Issue 2](https://www.infocalypse.press/issue-2-without-a-face/)
 - [Five Poems, Garfield Lake Review](https://www.garfieldlakereview.com/recent)
 
 ### Testimonials
