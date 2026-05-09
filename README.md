@@ -62,13 +62,13 @@
 ### Publications
 
 - [Photographs of Autumn, Macrame Literary Journal, Summer 2025, Issue 1](https://macramelit.com/articles/photographs-of-autumn/)
-- [Absurdity, The Genre Society, Fall 2025 Issue](https://www.thegenresociety.com/readhere)
+- [Absurdity, The Genre Society, Issue 6](https://www.thegenresociety.com/readhere)
 - [Father's Lullaby, Sublimation, Volume 2 Issue 5](https://islandofwakwak.com/sublimation-volume-2-2025.html)
 - [The Unicode Ode & The Invocation of Metric Code, Infocalypse Press, Volume 1 Issue 1](https://www.infocalypse.press/issue-one/)
-- [The Lives of Kites, Macrame Literary Journal, Winter 2026, Issue 3](https://macramelit.com/articles/the-lives-of-kites/)
+- [The Lives of Kites, Macrame Literary Journal, Issue 3](https://macramelit.com/articles/the-lives-of-kites/)
 - [Holly Tree, The Celestial Glossary, Volume 1 Issue 1](https://estrellahp.com/celestial-glossary/issue-1/holly-trees/)
 - [Larksong & Eulogy, Artists From Maryland, February 2026](https://www.artistsfrommaryland.org/february-2026-grant-moore/)
-- [Pantoums of Dementia, Movement I: Undulation, Scribeworth Magazine, Winter 2025, Volume I, Issue 4](https://www.scribeworth.com/magazine)
+- [Pantoums of Dementia, Movement I: Undulation, Scribeworth Magazine, Volume 1 Issue 4](https://www.scribeworth.com/magazine)
 - [Little Sprout & Millenia, WayWords Literary Journal, Issue 21: Theme of Wonder](https://www.amazon.com/dp/B0GPJ81RJM)
 - [Eulogy & Pantoums of Dementia, Sligo Creek Publishing, Bearing Witness: Poems for Troubled Times](https://www.sligocreekpublishing.com/bearing-witness)
 - [Floods, Four Tulips Magazine, 2026 Anthology](https://www.fourtulips.com/archives/floods)
